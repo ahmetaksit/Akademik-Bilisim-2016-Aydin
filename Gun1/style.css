@@ -1,0 +1,17 @@
+h1 {
+	color: red;
+}
+
+#sitebasligi {
+	color: blue;
+}
+
+h4.altbaslik{
+	color: yellow;
+}
+
+.meyve-listesi {
+	color: black;
+	list-style-type: decimal; 
+	background-color: #F0F0F0;
+}

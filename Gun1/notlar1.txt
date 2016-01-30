@@ -2,3 +2,9 @@ HTML tanımları yapıldı.
 www.w3.org
 
 10:00 h1 başlık etiketlerinden bahsetti. 
+
+15:00 css leri gecti.http://meyerweb.com/eric/tools/css/reset/
+
+
+tüm css style'lerini sıfırlamak için http://meyerweb.com/eric/tools/css/reset/  reser.css
+tum css style'lerini tüm browserlar için standart hale getirmek https://necolas.github.io/normalize.css/
