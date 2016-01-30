@@ -1,0 +1,4 @@
+HTML tanımları yapıldı.
+www.w3.org
+
+10:00 h1 başlık etiketlerinden bahsetti. 
