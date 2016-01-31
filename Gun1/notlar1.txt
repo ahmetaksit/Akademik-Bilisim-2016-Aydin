@@ -8,3 +8,8 @@ www.w3.org
 
 tüm css style'lerini sıfırlamak için http://meyerweb.com/eric/tools/css/reset/  reser.css
 tum css style'lerini tüm browserlar için standart hale getirmek https://necolas.github.io/normalize.css/
+
+
+
+2. gün div anlatıyor....
+
