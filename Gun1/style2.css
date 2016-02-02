@@ -1,0 +1,32 @@
+
+
+.cerceve{
+	width: 830px;
+	height: 700px;
+    border: 1px solid black; 
+}
+
+.bir {
+	width: 814px;
+	
+	border: 2px solid red;
+	text-align: center;
+	margin: 10px;
+	
+}	
+
+.iki {
+	width: 200px;
+	border: 2px solid blue;
+	float: left;
+	margin-left: 10px;
+	
+}
+.uc {
+	width: 600px;
+	border: 2px solid green;
+	
+	float: left;
+	margin-left: 10px;
+	
+}

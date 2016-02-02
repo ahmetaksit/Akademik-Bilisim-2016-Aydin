@@ -13,3 +13,12 @@ tum css style'lerini tüm browserlar için standart hale getirmek https://necola
 
 2. gün div anlatıyor....
 
+
+
+float    değerleri left,right,none
+
+packagecontrol.io  adresine gir...
+
+
+
+https://github.com/facebook/react   reactjs

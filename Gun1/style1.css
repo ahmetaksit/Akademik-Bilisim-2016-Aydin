@@ -1,0 +1,18 @@
+.bir {
+	width: 100px;
+	border: 1px solid green;
+	text-align: center;
+}
+
+.iki {
+	width: 100px;
+	border-top: 2px;
+	border-left: 3px;
+	border-right: 4px;
+	border-bottom: 4px;
+	float: right;
+}
+
+.uc {
+	
+}

@@ -1,0 +1,178 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+strong {
+  font-weight: 700;
+}
+
+img {
+	max-width: 100%;
+}
+
+.clear {
+  clear: both;
+}
+
+body{
+	font-family: 'Arial', sans-serif;
+	font-size: 14px;
+}
+
+.site {
+	margin: 20px auto 0;
+	width: 1000px;
+	border: 0px solid orange;
+	
+}
+
+.site-ust{
+	background-color: yellow;
+}
+
+.site-logo{
+	float: left;
+}
+
+.site-menu {
+	float: right;
+	text-align: right;
+}
+
+.menu {
+	display: inline-block;
+	
+}
+
+.menu li{
+	display: inline;	
+}
+
+.menu a{
+	display: inline-block;
+	padding: 5px;
+	/*font-weight: bold;*/
+	color: white;
+	transition: background .5s linear, border-radius 1s ease 1s;
+}
+
+.menu a:hover{
+	background-color: white;
+	color: black;
+}
+
+.site-menu1 {
+	float: right;
+	margin-top: 15px;
+	
+
+}
+
+.site-menu1 ul li{
+	float: left;
+	list-style-type: disc;
+	list-style-position: inside;
+	background-color: black;
+	color: white;
+
+}
+
+.site-menu2 {
+	margin-top: 2px;
+}
+
+.site-menu2 a{
+	padding: 15px;
+}
+
+
+.site-menu2 {	
+	background-color: #005bef;
+}
+
+.slider {
+	
+	margin-top: 30px;
+}
+
+.slider img{
+	display: block;
+	border: 1px solid gray;
+	padding: 5px;
+	margin: 0 auto;
+
+}
+
+.orta {
+	margin-top: 30px;
+}
+
+.orta .baslik{
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid gray;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.orta .metin {
+	float: left;
+	width: 670px;
+	line-height: 20px;
+}
+
+.orta .metin p{
+	margin-top: 20px;
+}
+
+.orta .metin p:first-of-type{
+	margin: 0;
+}
+
+.orta .doviz-bilgileri{
+	float: right;
+	margin-left: 10px;
+	padding-left: 15px;
+	border-left: 1px solid #ccc;
+}
+
+.doviz-bilgileri h3{
+	font-size: 25px;
+	color: #005bef;
+}
+
+.doviz-bilgileri table{
+    margin-top: 15px;
+}	
+
+.doviz-bilgileri th{
+	text-align: left;
+	line-height: 40px;
+	font-size: 15px;
+	font-weight: bold;
+	width: 150px;
+	height: 40px;
+}
+
+.doviz-bilgileri td{
+	height: 20px;
+	
+}
+
+
+.alt {
+	margin-top: 40px;
+	padding-top: 20px;
+	border-top: 1px solid gray;
+}
+
+
+

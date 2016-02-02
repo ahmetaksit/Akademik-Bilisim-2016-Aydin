@@ -1,0 +1,162 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.clear {
+  clear: both;
+}
+
+body{
+	font-family: "Arial",sans-serif;
+	font-size: 14px;
+	color: #333;
+	background-image: url("../img/background.png");
+}
+
+.sayfa {
+	width: 1000px;
+	margin: 30px auto 0;
+	border: 0 solid black;
+	padding: 5px;
+	background-color: white;
+}
+
+.ust .logo{
+	float: left;
+	margin: 16px;
+}
+
+.ust .sag {
+	float: right;
+	margin-top: 20px;
+
+}
+.ust .dil {
+	float: right;
+	margin-right: 10px;
+}
+
+.ust .dil ul li {
+	float: left;
+	padding: 5px;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.ust .dil ul li:first-child {
+	border-right:  2px dotted black;
+	color: red;
+}
+
+.ust .dil ul li:hover {
+	color: white; 
+	background-color: black;
+}
+
+
+.ust .menu {
+	float: right;
+	margin-top: 10px;
+	background-color: #fff;
+	border-top: 2px dotted black;
+	margin-right: 16px
+}
+
+.ust .menu ul li:last-child{
+	margin-right: 80px;
+}
+
+.ust .menu ul li {
+	float: left;
+}
+
+.ust .menu ul li a {
+	display: block;
+	padding: 10px 5px 20px;
+	font-weight: bold;
+	transition: background .5s linear, border-radius 1s ease 1s;
+}
+
+.ust .menu ul li a:hover {
+	background-color: black;
+	color: white;
+
+}
+
+.orta .slider {
+	border: 0px solid red;
+	margin: 16px;
+}
+
+.orta .kolon1 {
+	float: left;
+	width: 46%;
+	margin: 16px;
+	
+}
+.orta .kolon1 h1.baslik{
+	font-size: 22px;
+	font-weight: bold;
+	background-color: #0398e5;
+	color: #fff;
+	padding: 10px;
+}
+
+.orta .kolon1 p.yazi{
+	line-height: 20px;
+	padding: 15px;
+}
+.orta .kolon1 .yazi strong{
+	display: block;
+	font-weight: bold;
+}
+
+.orta .kolon2 {
+	float: right;
+	margin: 10px;
+}
+
+.alt {
+	border-top: 1px dotted #999;
+	margin: 10px;
+}
+
+.alt .sol ul li:first-child{
+	border-right: 1px dotted #999;
+	padding-left: 0;
+}
+
+.alt .sol ul li:last-child{
+	float: right;
+	padding-right: 0;
+}
+
+
+.alt .sol ul li{
+	float: left;
+	padding: 10px;
+}
+
+.alt .sol ul li .link{
+	padding: 20px 5px 20px;
+}
+
+.alt .sol ul li .link:hover{
+	background-color: black;
+	color: white;
+}
+
+.alt .sol button{
+	background-color: gray;
+	border-radius: 3px;
+	border: 0;
+}
+

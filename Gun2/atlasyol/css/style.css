@@ -1,0 +1,102 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.clear {
+  clear: both;
+}
+
+
+body {
+	font-family: 'Arial',sans-serif;
+	background-image: url("../img/body.png");
+	background-repeat: repeat-x;
+}
+
+.sayfa {
+	width: 1000px;
+	border: 0px solid blue;
+	margin: 30px auto 0;
+}
+
+.ust .logo {
+	float: left;
+}
+
+.ust .iletisim {
+	float: right;
+}
+
+
+.iletisim .tel p{
+	display: inline-block;
+}
+.iletisim .tel p strong{
+	font-weight: bold;
+}
+
+.iletisim .dil {
+	float: right;
+	margin: 10px 0 7px;
+}
+
+.iletisim .dil li {
+	float: left;
+	padding-left: 4px;
+}
+
+.sayfa .menu {
+	margin-top: 20px;
+	border: 1px solid gray;
+	font-weight: bold;
+}
+
+.menu li {
+	float: left;
+	border-left: 1px solid gray;
+}
+
+.menu li:first-child {
+	border: 0;
+}
+
+
+.menu li a{
+	display: inline-block;
+	padding: 7px;
+	
+}
+
+.menu li a:hover{
+	background-color: #f9c806;
+	color: white;
+}
+
+.sayfa .slider {
+	margin-top: 20px;
+	border: 2px solid gray;
+	width: 1000px;
+	height: 400px;
+}
+
+.sayfa .on_soz{
+	padding: 15px 70px 0;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.kolonlar .bilgi {
+	float: left;
+	width: 33%;
+	border: 0px solid gray;
+	padding-: 25px;
+}
